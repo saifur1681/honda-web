@@ -1,0 +1,30 @@
+/* header section */
+.background{
+    background: #264653 ;    
+}
+.button-color{
+    background: #E76F51;
+}
+/* best bike section */
+#best-bike{
+    color: #E76F51;
+    font-weight: 700;
+}
+.feature-bikes img{
+width:288px;
+height: 243px;;
+}
+.grayscale img{
+    filter: grayscale(100%) ;
+}
+/* client section */
+#client{
+    color: #E76F51;
+}
+.star-color {
+    color: #E77C40;
+}
+.image-size img{
+width: 149px;
+height: 149px;
+}
