@@ -1,3 +1,9 @@
+/* font */
+body{
+    font-family: 'Cairo', sans-serif;
+    color: #565656;
+}
+
 /* header section */
 .background{
     background: #264653 ;    
@@ -27,4 +33,9 @@ height: 243px;;
 .image-size img{
 width: 149px;
 height: 149px;
+}
+/* accordian section */
+.faq-image img {
+width: 400px;
+height: 380px;
 }
