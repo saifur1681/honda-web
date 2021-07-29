@@ -5,11 +5,15 @@ body{
 }
 
 /* header section */
+
 .background{
     background: #264653 ;    
 }
 .button-color{
     background: #E76F51;
+}
+.header-bike img{
+width:100%;
 }
 /* best bike section */
 #best-bike{
@@ -33,9 +37,25 @@ height: 243px;;
 .image-size img{
 width: 149px;
 height: 149px;
+border-radius:50%;
 }
 /* accordian section */
 .faq-image img {
 width: 400px;
 height: 380px;
+margin-bottom: 80px;
+}
+/* accessories section */
+.accessories-image img{
+    height: 250px;
+    width: 180px;
+}
+.accessories-name{
+    color: #E76F51;
+}
+.accesories-button{
+    background: #E76F51;
+}
+.accessories-detail{
+    font-size:18px;
 }
