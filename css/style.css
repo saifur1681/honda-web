@@ -5,7 +5,6 @@ body{
 }
 
 /* header section */
-
 .background{
     background: #264653 ;    
 }
@@ -15,6 +14,7 @@ body{
 .header-bike img{
 width:100%;
 }
+
 /* best bike section */
 #best-bike{
     color: #E76F51;
@@ -27,6 +27,7 @@ height: 243px;;
 .grayscale img{
     filter: grayscale(100%) ;
 }
+
 /* client section */
 #client{
     color: #E76F51;
@@ -39,12 +40,14 @@ width: 149px;
 height: 149px;
 border-radius:50%;
 }
+
 /* accordian section */
 .faq-image img {
 width: 400px;
 height: 380px;
 margin-bottom: 80px;
 }
+
 /* accessories section */
 .accessories-image img{
     height: 250px;
@@ -58,4 +61,9 @@ margin-bottom: 80px;
 }
 .accessories-detail{
     font-size:18px;
+}
+
+/* mailing section */
+.font-size{
+    font-weight: bold;
 }
